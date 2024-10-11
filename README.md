@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @david-bmarisk
+- 👀 I’m interested in C++, C#, Python
+- 🌱 I’m currently learning Zig
+- 📫 How to reach me : david.marcombes@bmarisk.com
+- ⚡ Fun fact: I was born same year as Anarchy in the UK was released
